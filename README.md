@@ -1,1 +1,1 @@
-# Restaurant_Rating_Bangalore
+# Resturant_rating_prediction_model_deployment
